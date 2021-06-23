@@ -1,3 +1,1 @@
 # git_training
-
-test
